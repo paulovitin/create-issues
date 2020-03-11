@@ -1,0 +1,8 @@
+name: Create Issues
+description: Create Issues from list
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: bookmark
+  color: white
